@@ -20,3 +20,13 @@ The output file is an html file with Italy map gray scale colored depending on t
 Moving the mouse on a region, a message will appear with numeric data.
 
 ![alt image](https://github.com/AgnesePortera/COVID19-Maps/blob/master/Deaths/ITA%20-%20Total%20Deaths%20by%20region.gif)
+
+### Hospitals
+Under the folder "Hospitals", there is the data analyses of ICU (Intensive Care Unit) related to Italy regions, as the previous section.
+
+After that there is the ICU total analyses over time:
+
+![alt image](https://github.com/AgnesePortera/COVID19-Maps/blob/master/Hospitals/ICU_date.gif)
+
+It is used the `Cufflinks` library for `Plotly` integration on `Pandas`.
+Also the interactive plot (`iplot`) shows information on hover and permits control on the plot look. 
