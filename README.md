@@ -30,3 +30,20 @@ After that there is the ICU total analyses over time:
 
 It is used the `Cufflinks` library for `Plotly` integration on `Pandas`.
 Also the interactive plot (`iplot`) shows information on hover and permits control on the plot look. 
+
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/AgnesePortera/COVID19-Maps/.
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the
+[code of conduct](https://github.com/AgnesePortera/COVID19-Maps/CODE_OF_CONDUCT.md).
+
+## Code of Conduct
+
+Everyone interacting in the Notification Bot project's codebases, issue trackers, chat rooms and mailing lists is
+expected to follow
+the [code of conduct](https://github.com/AgnesePortera/COVID19-Maps/CODE_OF_CONDUCT.md).
+
+## License
+
+This project is distributed under _MIT_ license.
