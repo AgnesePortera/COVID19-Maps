@@ -2,6 +2,7 @@
 
 [![Python: 3.4](https://img.shields.io/badge/Python-3.4-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+![GitHub repo size](https://img.shields.io/github/repo-size/AgnesePortera/COVID19-Maps)
 ![GitHub](https://img.shields.io/github/license/AgnesePortera/Covid19-Maps?style=plastic)
 
 Analyses of covid-19  with Python choropleth maps.
